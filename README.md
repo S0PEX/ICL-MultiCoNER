@@ -111,3 +111,5 @@ ICL-MultiCoNER/
 ```
 
 ## License
+
+This project is licensed under the MIT License. All third-party code and libraries used in this project are licensed under their respective licenses. Please refer to the individual libraries for more details.
