@@ -138,3 +138,6 @@ ui-tests/.pnp.*
 
 # Environment
 .env
+.idea/
+
+notebooks/models/
